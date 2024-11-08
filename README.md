@@ -1,9 +1,9 @@
-# Praktikum 1
+## Praktikum 1
 
-# Praktikum 2
+## Praktikum 2
 
-# Hasil gabungan dari kode program praktikum 1 & praktikum 2
+## Hasil gabungan dari kode program praktikum 1 & praktikum 2
 
-# maksud dari void async 
+## maksud dari void async 
 
-# fungsi anotasi @imuutabel dan @override
+## fungsi anotasi @imuutabel dan @override
