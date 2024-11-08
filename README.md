@@ -1,5 +1,5 @@
 ## Praktikum 1
-
+![praktikum1](path/to/image)
 ## Praktikum 2
 
 ## Hasil gabungan dari kode program praktikum 1 & praktikum 2
