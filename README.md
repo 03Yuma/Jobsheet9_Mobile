@@ -11,3 +11,6 @@ agar aplikasi berjalan lancar dan responsif meskipun ada proses yang membutuhkan
 
 ## fungsi anotasi @imuutabel dan @override
 
+anotasi @imuutabel digunakan untuk menandai bahwa objek dari kelas tersebut tidak boleh diubah setelah dibuat
+
+anotasi @override digunakan untuk menandai bahwa sebuah metode menggantikan metode dikelas induknya
